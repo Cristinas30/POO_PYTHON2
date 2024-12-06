@@ -30,7 +30,7 @@ class Stripe(ProcesoPago):
         
     
 ## name Nombre del modulo es el mismo lugar donde yo lo estoy tratando de ejecutar es el m,etodo principal de 
-## ahora creamos la instancia 
+## ahora creamos la instancia VER 
     
 if __name__=="__main__": 
   ProcesoPaypal=Paypal()
